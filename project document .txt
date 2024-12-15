@@ -13,4 +13,6 @@ Task Details:
 Features: 
 •	Use dynamic memory to handle the to-do list. 
 •	File handling for saving and loading the task list. 
-Each group will work on a simple system that uses pointers for memory management and file handling to store data, making the tasks straightforward but educational. These projects will allow students to apply their knowledge of memory allocation and file manipulation in practical scenarios.
+Each group will work on a simple system that uses pointers for memory management and file handling to store data,
+making the tasks straightforward but educational. These projects will allow students to apply their knowledge of 
+memory allocation and file manipulation in practical scenarios.
