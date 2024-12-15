@@ -9,7 +9,7 @@ Task Details:
 2.	View all tasks, including their completion status. 
 3.	Mark tasks as completed. 
 4.	Delete completed tasks.
-5.	Save the list to a file (todo.dat) and load it upon starting the program. 
+5.	Save the list to a file (todo.txt) and load it upon starting the program. 
 Features: 
 •	Use dynamic memory to handle the to-do list. 
 •	File handling for saving and loading the task list. 
