@@ -1,0 +1,16 @@
+Project Nmae: Simple Todo List System 
+Objective: Implement a to-do list system where tasks can be added, viewed, marked as complete, or deleted. 
+Summary of Tasks: 
+❖ Todo List System – Add, view, and delete tasks (dynamic memory + file I/O). 
+Task Details: 
+• Define a Task structure with fields for task description, due date, and completion status (e.g., bool completed). 
+• The program should allow the user to: 
+1.	Add tasks to the list. 
+2.	View all tasks, including their completion status. 
+3.	Mark tasks as completed. 
+4.	Delete completed tasks.
+5.	Save the list to a file (todo.dat) and load it upon starting the program. 
+Features: 
+•	Use dynamic memory to handle the to-do list. 
+•	File handling for saving and loading the task list. 
+Each group will work on a simple system that uses pointers for memory management and file handling to store data, making the tasks straightforward but educational. These projects will allow students to apply their knowledge of memory allocation and file manipulation in practical scenarios.
